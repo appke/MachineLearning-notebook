@@ -1,13 +1,13 @@
 ### 机器学习入门
 
 《Python3 入门机器学习》| 章节简书笔记 | github
----|---|---
-**第2章 机器学习基础** | -- |
+---|:-:|:-:
+**第2章 机器学习基础** |  |
 2-1 机器学习世界的数据   | [机器学习简介](https://www.jianshu.com/p/ce5a3bcb8414) | --
-**第3章  Jupyter Notebook ,numpy** | -- |
-Numpy |  | [Numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/Numpy.ipynb) 
-Matplotlib |  | [Matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/Matplotlib.ipynb) 
-**第4章 最基础的分类算法** | -- |
+**第3章  Jupyter Notebook ,numpy** |  |
+numpy | -- | [numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy.ipynb) 
+matplotlib | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib.ipynb) 
+**第4章 最基础的分类算法** |  |
 
 <br><br>
 
