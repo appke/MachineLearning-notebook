@@ -1,4 +1,4 @@
-### 机器学习入门
+### [机器学习入门](https://github.com/angmu/Machine-Learning)
 
 《Python3 入门机器学习》| 章节简书笔记 | github
 ---|:-:|:-:
