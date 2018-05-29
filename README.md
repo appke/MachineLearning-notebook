@@ -5,8 +5,11 @@
 2-1 机器学习世界的数据   | [机器学习简介](https://www.jianshu.com/p/ce5a3bcb8414) | --
 **第3章  Jupyter Notebook ,numpy** |  |
 numpy | -- | [numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy.ipynb) 
+numpy运算 | -- | [numpy运算](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy%E8%BF%90%E7%AE%97.ipynb) 
 matplotlib | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib2.ipynb) 
 **第4章 最基础的分类算法** |  |
+
+
 
 <br><br>
 
