@@ -9,8 +9,8 @@ numpy运算 | -- | [numpy运算](https://nbviewer.jupyter.org/github/angmu/Machi
 numpy统计 | -- | [numpy统计](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy统计.ipynb) 
 matplotlib基础 | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib.ipynb) 
 matplotlib2 | -- | [matplotlib2](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib2.ipynb) 
+鸢尾花数据绘图 | -- | [sklearn-matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/sklearn-matplotlib.ipynb) 
 **第4章 最基础的分类算法** |  |
-
 
 
 <br><br>
