@@ -1,16 +1,25 @@
 ### [机器学习入门](https://github.com/angmu/Machine-Learning)
 《Python3 入门机器学习》| 章节简书笔记 | github
 ---|:-:|:-:
-**第2章 机器学习基础** |  |
-2-1 机器学习世界的数据   | [机器学习简介](https://www.jianshu.com/p/ce5a3bcb8414) | --
-**第3章  Jupyter Notebook ,numpy** |  |
-numpy | -- | [numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy.ipynb) 
-numpy运算 | -- | [numpy运算](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy%E8%BF%90%E7%AE%97.ipynb)
-numpy统计 | -- | [numpy统计](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy统计.ipynb) 
-matplotlib基础 | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib.ipynb) 
-matplotlib2 | -- | [matplotlib2](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib2.ipynb) 
-鸢尾花数据绘图 | -- | [sklearn-matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/sklearn-matplotlib.ipynb) 
-**第4章 最基础的分类算法** |  |
+**第1章 机器学习基础** |  |
+机器学习世界的数据   | [机器学习简介](https://www.jianshu.com/p/ce5a3bcb8414) | --
+**第2章 numpy** |  |
+numpy | -- | [numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/numpy.ipynb) 
+numpy运算 | -- | [numpy运算](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/numpy运算.ipynb)
+numpy统计 | -- | [numpy统计](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/numpy统计.ipynb) 
+matplotlib基础 | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/matplotlib.ipynb) 
+鸢尾花数据绘图 | -- | [sklearn-matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/sklearn-matplotlib.ipynb) 
+matplotlib2 | -- | [matplotlib2](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch02/matplotlib2.ipynb) 
+**第3章 kNN分类算法** |  |
+kNN判断肿瘤类型 | -- | [kNN基础](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/kNN.ipynb) 
+**第4章 线性回归** | |
+
+
+
+
+
+
+
 
 
 <br><br>
