@@ -7,7 +7,8 @@
 numpy | -- | [numpy](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy.ipynb) 
 numpy运算 | -- | [numpy运算](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy%E8%BF%90%E7%AE%97.ipynb)
 numpy统计 | -- | [numpy统计](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/numpy统计.ipynb) 
-matplotlib | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib2.ipynb) 
+matplotlib基础 | -- | [matplotlib](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib.ipynb) 
+matplotlib2 | -- | [matplotlib2](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/matplotlib2.ipynb) 
 **第4章 最基础的分类算法** |  |
 
 
