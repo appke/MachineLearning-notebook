@@ -13,6 +13,7 @@ matplotlib2 | -- | [matplotlib2](https://nbviewer.jupyter.org/github/angmu/Machi
 **第3章 kNN分类算法** |  |
 kNN判断肿瘤类型 | -- | [kNN基础](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/kNN.ipynb) 
 **第4章 线性回归** | |
+线性回归 | -- | [线性回归](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch04) 
 
 
 
