@@ -17,7 +17,7 @@ kNN判断肿瘤类型 | -- | [kNN基础](https://nbviewer.jupyter.org/github/ang
 
 
 
-
+SVM支持向量机
 
 
 
