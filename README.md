@@ -21,6 +21,6 @@ SVM支持向量机
 1.1 线性回归 | [机器学习：线性回归](https://www.jianshu.com/p/7966614c082b) | [LinearRegression](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/chapter01/LinearRegression.ipynb)
 1.2 分类问题KNN  | [分类问题KNN](https://www.jianshu.com/p/089f01adbc24)  | [KNN最邻近算法](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/chapter01/KNN.ipynb) 
 
-<p align='center'>
-<img src='ch01-导论/images/surface-plot.png'>
+<p align='left'>
+<img src='ch01-导论/images/surface-plot.jpg'>
 </p>
