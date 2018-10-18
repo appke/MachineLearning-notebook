@@ -4,7 +4,6 @@ from collections import Counter
 from .metrics import accuracy_score
 
 class KNNClassifier:
-
     def __init__(self, k):
         """初始化kNN分类器"""
         assert k >= 1, "k must be valid"
