@@ -13,6 +13,16 @@
 
 SVM支持向量机
 
+本地和服务器已经，岔开了
+
+就算本地提交过又怎样？
+
+提交过又修改了都是没问题的！！！
+
+命令rebase纯粹，拉去远程代码!!!
+
+`alias gsfrs='git stash;git fetch;git rebase;git stash pop;'`
+
 
 
 <p align='left'>
