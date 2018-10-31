@@ -21,6 +21,10 @@ SVM支持向量机
 
 `alias gsfrs='git stash;git fetch;git rebase;git stash pop;'`
 
+修改了可以直接pull啊
+
+git mergetest
+
 
 
 <p align='left'>

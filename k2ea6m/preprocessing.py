@@ -19,9 +19,9 @@ class StandardScaler:
     def transform(self, X):
         """将X根据这个StandardScaler进行均值方差归一化处理"""
         assert X.ndim == 2, "The dimension of X must be 2"
-        assert self.mean_ is not None and self.scale_ is not None, \
+        assert self.mean_ is not None and self.scale_ is not None, 
                "must fit before transform!"
-        assert X.shape[1] == len(self.mean_), \
+        assert X.shape[1] == len(self.mean_), 
                "the feature number of X must be equal to mean_ and std_"
 
         resX = np.empty(shape=X.shape, dtype=float)
