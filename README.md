@@ -11,23 +11,14 @@
 **第7章 集成方法AdaBoost** | [集成方法AdaBoost]() |
 **第8章 回归** | [线性回归](https://www.jianshu.com/p/7966614c082b) |
 -- |  | --
-数学基础 | [微积分](/)<br>[概率论与数理统计](./)<br>[线性代数]() | --
 
 
 
-本地和服务器已经，岔开了
+- 类似将原理ppt全在简书，``仓库只放代码
 
-就算本地提交过又怎样？
-
-提交过又修改了都是没问题的！！！
-
-命令rebase纯粹，拉去远程代码!!!
-
-`alias gsfrs='git stash;git fetch;git rebase;git stash pop;'`
-
-修改了可以直接pull啊
-
-git mergetest
+- kc01 开课吧，案例说明
+- ex01，视频练习
+- 01 机器学习实战，案例
 
 
 
