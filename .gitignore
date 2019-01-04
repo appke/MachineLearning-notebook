@@ -1,5 +1,6 @@
 .DS_Store
 */.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -13,6 +14,10 @@ __pycache__/
 
 .DS_Store
 */.DS_Store
+
+# 忽略所有data文件
+data/
+
 
 # Distribution / packaging
 .Python
