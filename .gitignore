@@ -17,6 +17,7 @@ __pycache__/
 
 # 忽略所有data文件
 data/
+*.csv
 
 
 # Distribution / packaging

@@ -7,7 +7,6 @@ import copy
 
 random.seed(0)
 
-
 def intersect(a, b):
     return list(set(a) & set(b))
 
@@ -24,21 +23,21 @@ def get_features(train, test):
 def read_test_train():
 
     print("Read people.csv...")
-    people = pd.read_csv("../all/people.csv",
+    people = pd.read_csv("data/people.csv",
                        dtype={'people_id': np.str,
                               'activity_id': np.str,
                               'char_38': np.int32},
                        parse_dates=['date'])
 
     print("Load train.csv...")
-    train = pd.read_csv("../all/act_train.csv",
+    train = pd.read_csv("data/act_train.csv",
                         dtype={'people_id': np.str,
                                'activity_id': np.str,
                                'outcome': np.int8},
                         parse_dates=['date'])
 
     print("Load test.csv...")
-    test = pd.read_csv("../all/act_test.csv",
+    test = pd.read_csv("data/act_test.csv",
                        dtype={'people_id': np.str,
                               'activity_id': np.str},
                        parse_dates=['date'])
