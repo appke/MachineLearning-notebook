@@ -46,7 +46,7 @@ class SimpleLinearRegression1:
         return "SimpleLinearRegression1()"
     
 
-
+# 向量化实现SimpleLinearRegression
 class SimpleLinearRegression2:
 
     def __init__(self):
