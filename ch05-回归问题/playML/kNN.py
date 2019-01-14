@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import numpy as np
 from math import sqrt
 from collections import Counter
