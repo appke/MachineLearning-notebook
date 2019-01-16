@@ -9,6 +9,7 @@ class LogisticRegression:
         self.intercept_ = None
         self._theta = None
 
+    # 私有的函数
     def _sigmoid(self, t):
         return 1. / (1. + np.exp(-t))
 
@@ -52,6 +53,7 @@ class LogisticRegression:
 
         return self
 
+    # 预测的概率
     def predict_proba(self, X_predict):
         """给定待预测数据集X_predict，返回表示X_predict的结果概率向量"""
         assert self.intercept_ is not None and self.coef_ is not None, \
@@ -60,6 +62,7 @@ class LogisticRegression:
             "the feature number of X_predict must be equal to X_train"
 
         X_b = np.hstack([np.ones((len(X_predict), 1)), X_predict])
+        # 返回结果的概率向量
         return self._sigmoid(X_b.dot(self._theta))
 
     def predict(self, X_predict):
@@ -70,8 +73,10 @@ class LogisticRegression:
             "the feature number of X_predict must be equal to X_train"
 
         proba = self.predict_proba(X_predict)
+        # 大于0.5为1, 小于0.5判定为0；BOOL向量强制转成0、1向量
         return np.array(proba >= 0.5, dtype='int')
 
+    # 分类的 准确度
     def score(self, X_test, y_test):
         """根据测试数据集 X_test 和 y_test 确定当前模型的准确度"""
 
