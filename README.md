@@ -3,8 +3,8 @@
 机器学习和Python实战| 笔记博客 | 案例代码 
 :--|:--|:--
 **第1章 机器学习导论** | [机器学习简介](https://www.jianshu.com/p/ce5a3bcb8414)<br>[人工智能的Pipeline](https://www.jianshu.com/p/bacae9b3bf17) |
-**第2章 kNN分类算法** | [KNN(k最邻近算法)](https://www.jianshu.com/p/47f96d73f076) |[kNN判断肿瘤类型](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/kNN.ipynb)
-**第3章 决策树** | [信息熵 - 简书](https://www.jianshu.com/p/dba612385077)<br>[决策树]() |
+**第2章 kNN分类算法** | [kNN(k最邻近算法)](https://www.jianshu.com/p/47f96d73f076) |[kNN判断肿瘤类型](https://nbviewer.jupyter.org/github/angmu/Machine-Learning/blob/master/ch03/kNN.ipynb)
+**第3章 决策树** | [信息熵](https://www.jianshu.com/p/dba612385077)<br>[决策树]() |
 **第4章 朴素贝叶斯** | [朴素贝叶斯]() |
 **第5章 线性回归** | [线性回归](https://www.jianshu.com/p/7966614c082b) |
 **第6章 梯度下降** | [梯度下降](https://www.jianshu.com/p/4eb99aa14355)<br>[随机梯度下降](https://www.jianshu.com/p/8d19ea333a15) |
