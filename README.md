@@ -9,12 +9,13 @@
 **第5章 线性回归** | [线性回归](https://www.jianshu.com/p/7966614c082b) |
 **第6章 梯度下降** | [梯度下降](https://www.jianshu.com/p/4eb99aa14355)<br>[随机梯度下降](https://www.jianshu.com/p/8d19ea333a15) |
 **第7章 逻辑回归** | [逻辑回归](https://www.jianshu.com/p/09b7b601046a) |
-**第8章 支持向量机SVM** | [支持向量机SVM]() |
-**第9章 集成方法AdaBoost** | [集成方法AdaBoost]() |
-**第10章 聚类分析** |  |
-**第11章 技术工具** | |
-**第12章 推荐系统** | |
-**第13章 Kaggle实战** |  |[kk01-redhat-business](ch13-Kaggle实战/kk01-redhat-business)<br>[kk02-kaggle-titanic](ch13-Kaggle实战/kk02-kaggle-titanic)
+**第8章 多项式回归** |  |
+**第9章 支持向量机SVM** | [支持向量机SVM]() |
+**第10章 集成方法AdaBoost** | [集成方法AdaBoost]() |
+**第11章 聚类分析** |  |
+**第12章 技术工具** | |
+**第13章 推荐系统** | |
+**第14章 Kaggle实战** |  |[kk01-redhat-business](ch13-Kaggle实战/kk01-redhat-business)<br>[kk02-kaggle-titanic](ch13-Kaggle实战/kk02-kaggle-titanic)
 
 <br>
 
