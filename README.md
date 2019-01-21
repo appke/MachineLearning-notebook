@@ -20,13 +20,11 @@
 
 ## 🏆 Kaggle实战
 
-序号| Kaggle实战 | 博客笔记 | 案例代码 |
-:--- | :--------- | :------- | :------- | -------- 
-01| redhat-business |          | [kk01-preprocess-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk01-preprocess-redhat-business.ipynb)<br>[kk02-train-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk02-train-redhat-business.ipynb)<br/>[kk03-predict-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk03-predict-redhat-business.ipynb)<br/> |
-02| 泰坦尼克(titanic) |          |  |
+|序号| Kaggle实战 | 博客笔记 | 案例代码 |
+|:--- | :--------- | :------- | :------- | -------- |
+|01 | redhat-business |          | [kk01-preprocess-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk01-preprocess-redhat-business.ipynb)<br>[kk02-train-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk02-train-redhat-business.ipynb)<br/>[kk03-predict-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk03-predict-redhat-business.ipynb)<br/> |
+|02| 泰坦尼克(titanic) | | |
 <br>
-
-
 
 
 
@@ -34,7 +32,7 @@
 
 数学基础| 笔记博客 | 案例代码 
 :--|:--|:--
-线性代数 |  |
+线性代数 |  |[06-线性代数(距离计算).ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chkk-数学基础/06-线性代数(距离计算).ipynb)
 概率论 |  |
 统计学 |  |
 微积分 |  |
