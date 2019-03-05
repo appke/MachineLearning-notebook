@@ -9,11 +9,11 @@
 **第5章 线性回归** | [线性回归](https://www.jianshu.com/p/7966614c082b) |[01-简单线性回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch05-线性回归/01-简单线性回归.ipynb)<br/>[02-多元线性回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch05-线性回归/02-多元线性回归.ipynb)<br>[03-sklearn中线性回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch05-线性回归/03-sklearn中线性回归.ipynb)<br/>[04-线性回归的可解释性.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch05-线性回归/04-线性回归的可解释性.ipynb)<br/>|[Z1-线性回归.ipynb](https://github.com/appke/MachineLearning-notebook/blob/master/ch05-线性回归/Z1-线性回归.ipynb)<br/>[Z2-使用局部线性回归预测鲍鱼年龄.ipynb](https://github.com/appke/MachineLearning-notebook/blob/master/ch05-线性回归/Z2-使用局部线性回归预测鲍鱼年龄.ipynb)<br/>
 **第6章 梯度下降** | [梯度下降](https://www.jianshu.com/p/4eb99aa14355)<br>[随机梯度下降](https://www.jianshu.com/p/8d19ea333a15) |[01-模拟梯度下降法.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/01-模拟梯度下降法.ipynb)<br/>[02-线性回归模型中使用梯度下降法.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/02-线性回归模型中使用梯度下降法.ipynb)<br/>[03-梯度下降法向量化(Boston房价).ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/03-梯度下降法向量化(Boston房价).ipynb)<br/>[04-随机梯度下降法(SGD).ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/04-随机梯度下降法(SGD).ipynb)<br/>[05-sklearn中梯度下降法.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/05-sklearn中梯度下降法.ipynb)<br/>[06-梯度的计算调试.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/06-梯度的计算调试.ipynb)<br/>[07-牛顿法.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch06-梯度下降法/07-牛顿法.ipynb)<br/>|  
 **第7章 逻辑回归** | [逻辑回归](https://www.jianshu.com/p/09b7b601046a) |[01-Sigmoid函数.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/01-Sigmoid函数.ipynb)<br/>[02-损失函数的梯度推导.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/02-损失函数的梯度推导.ipynb)<br/>[03-实现逻辑回归算法.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/03-实现逻辑回归算法.ipynb)<br/>[04-决策边界.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/04-决策边界.ipynb)<br/>[05-逻辑回归中多项式分类.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/05-逻辑回归中多项式分类.ipynb)<br/>[06-scikit-learn中的逻辑回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/06-scikit-learn中的逻辑回归.ipynb)<br/>| [Z1-使用Logistic回归在简单数据集上的分类.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/Z1-使用Logistic回归在简单数据集上的分类.ipynb)<br/>[Z2-从疝气病症预测病马的死亡率.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/Z2-从疝气病症预测病马的死亡率.ipynb)<br/>[Z3-岭回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/Z3-岭回归.ipynb)<br/>[Z4-前向逐步回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/Z4-前向逐步回归.ipynb)<br/>[Z5-Logistic回归.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch07-逻辑回归/Z5-Logistic回归.ipynb)<br/> 
-**第9章 支持向量机SVM** | [支持向量机SVM]() || [Z1-对小规模数据点进行分类（无核函数）.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch09-支持向量机SVM/Z1-对小规模数据点进行分类（无核函数）.ipynb)<br/>[Z3-手写数字识别的优化（有核函数）.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch09-支持向量机SVM/Z3-手写数字识别的优化（有核函数）.ipynb)<br/> 
-**第10章 集成RandomForest** |  ||  
-**第11章 聚类&HMM** |  ||  
-**第12章 技术工具** |  ||  
-**第13章 推荐系统** |  ||  
+**第8章 支持向量机SVM** | [支持向量机SVM]() || [Z1-对小规模数据点进行分类（无核函数）.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch09-支持向量机SVM/Z1-对小规模数据点进行分类（无核函数）.ipynb)<br/>[Z3-手写数字识别的优化（有核函数）.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/ch09-支持向量机SVM/Z3-手写数字识别的优化（有核函数）.ipynb)<br/> 
+**第09章 集成RandomForest** |  ||  
+**第10章 聚类&HMM** |  ||  
+**第11章 技术工具** |  ||  
+**第12章 推荐系统** |  ||  
 
 - [Python3 入门机器学习 经典算法与应用](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms.git)<br><br>
 
@@ -23,28 +23,8 @@
 :--- | :--------- | :------- | :------- 
 01 | redhat-business |          | [kk01-preprocess-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk01-preprocess-redhat-business.ipynb)<br>[kk02-train-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk02-train-redhat-business.ipynb)<br/>[kk03-predict-redhat-business.ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chka-Kaggle实战/kk01-redhat-business/kk03-predict-redhat-business.ipynb)<br/> 
 02| 泰坦尼克(titanic) | | 
+09|🌟数学基础 ||[06-线性代数(距离计算).ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chkk-数学基础/06-线性代数(距离计算).ipynb)
 <br>
-
-
-
-## 🌟数学基础
-
-数学基础| 笔记博客 | 案例代码 
-:--|:--|:--
-线性代数 |  |[06-线性代数(距离计算).ipynb](https://nbviewer.jupyter.org/github/appke/MachineLearning-notebook/blob/master/chkk-数学基础/06-线性代数(距离计算).ipynb)
-概率论 |  |
-统计学 |  |
-微积分 |  |
-
-<br>
-
-#### 🌾这个`仓库`只放代码，都是代码
-
-- ch01，~文件夹名称
-- kk01，开课吧，案例说明
-- 01，《机器学习实战》书中案例，`数学基础`
-- ex01，视频练习代码，其它代码
-- 类似`原理|ppt`全在简书
 
 <br>
 
